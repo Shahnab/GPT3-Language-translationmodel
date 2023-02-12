@@ -9,7 +9,7 @@ st.sidebar.markdown("##### This tool allows users to type queries in local langu
 st.sidebar.markdown("##### The model uses OpenAI text-davinci-003 Chat Model and facebook/m2m100_1.2B Translation Model")
 
 st.sidebar.subheader("How to use:")
-st.sidebar.markdown("##### Kindly choose the prefered language, provide OpenAI api-key and ask queries to the GPT-3 model ")
+st.sidebar.markdown("##### Kindly choose the prefered language, provide OpenAI api-key and ask queries to the GPT-3 model in your preferred language")
 
 
 st.sidebar.subheader("Powered by")
