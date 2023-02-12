@@ -11,9 +11,6 @@ st.sidebar.markdown("##### The model uses OpenAI text-davinci-003 Chat Model and
 st.sidebar.subheader("How to use:")
 st.sidebar.markdown("##### Kindly choose the prefered language, provide OpenAI api-key and ask queries to the GPT-3 model ")
 
-st.sidebar.subheader("About the GPT-3 Model:")
-st.sidebar.markdown("##### Davinci is the most capable model in GPT-3 and can do anything that any other model can do, and much more—often with fewer instructions")
-st.sidebar.markdown("Davinci is able to solve logic problems, determine cause and effect, understand the intent of text, produce creative content, explain character motives, and handle complex summarization tasks")
 
 st.sidebar.subheader("Powered by")
 st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png", width=150)
